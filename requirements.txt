@@ -1,12 +1,11 @@
 streamlit==1.26.0
 pandas==2.1.0
-numpy==1.26.0
+numpy==1.24.3
 matplotlib==3.8.0
 seaborn==0.12.2
-torch==2.1.0
-transformers==4.43.0
+torch==2.0.1+cpu
+transformers==4.33.1
 alpha_vantage==2.3.1
 gnews==0.1.9
 textblob==0.17.1
-yfinance==0.2.26
 requests==2.31.0
